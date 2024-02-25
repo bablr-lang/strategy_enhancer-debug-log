@@ -1,0 +1,29 @@
+{
+  "name": "@bablr/strategy_enhancer-debug-log",
+  "description": "An agAST VM strategy enhancer that logs instruction execution",
+  "version": "0.0.0",
+  "author": "Conrad Buck<conartist6@gmail.com>",
+  "type": "module",
+  "files": [
+    "lib"
+  ],
+  "exports": {
+    ".": "./lib/index.js"
+  },
+  "sideEffects": false,
+  "dependencies": {
+    "@bablr/helpers": "github:bablr-lang/helpers#cc1d37fa91f470dcf3bf1b4f6b05a8350dc52155",
+    "@bablr/agast-helpers": "github:bablr-lang/agast-helpers#bcde8202460027c099860756c520e9ec8a59d63b"
+  },
+  "devDependencies": {
+    "@bablr/eslint-config-base": "github:bablr-lang/eslint-config-base#c040bc95f2dddac160628e4757a412016044b3ef",
+    "enhanced-resolve": "^5.12.0",
+    "eslint": "^7.32.0",
+    "eslint-import-resolver-enhanced-resolve": "^1.0.5",
+    "eslint-plugin-import": "^2.27.5",
+    "prettier": "^2.6.2"
+  },
+  "repository": "github:bablr-lang/strategy_enhancer-debug-log",
+  "homepage": "https://github.com/bablr-lang/strategy_enhancer-debug-log",
+  "license": "MIT"
+}
