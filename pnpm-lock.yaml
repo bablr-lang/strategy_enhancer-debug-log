@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@bablr/agast-helpers':
-    specifier: github:bablr-lang/agast-helpers#6f23ef7ace4c6504762ef19ffbf3eff00790ff7d
-    version: github.com/bablr-lang/agast-helpers/6f23ef7ace4c6504762ef19ffbf3eff00790ff7d
+    specifier: github:bablr-lang/agast-helpers#298f42760021ba2b021cda90508e8e162b116470
+    version: github.com/bablr-lang/agast-helpers/298f42760021ba2b021cda90508e8e162b116470
   '@bablr/helpers':
     specifier: github:bablr-lang/helpers#cc1d37fa91f470dcf3bf1b4f6b05a8350dc52155
     version: git/github.com+bablr-lang/helpers/cc1d37fa91f470dcf3bf1b4f6b05a8350dc52155
@@ -1912,8 +1912,8 @@ packages:
       iter-tools-es: 7.5.3
     dev: false
 
-  github.com/bablr-lang/agast-helpers/6f23ef7ace4c6504762ef19ffbf3eff00790ff7d:
-    resolution: {tarball: https://codeload.github.com/bablr-lang/agast-helpers/tar.gz/6f23ef7ace4c6504762ef19ffbf3eff00790ff7d}
+  github.com/bablr-lang/agast-helpers/298f42760021ba2b021cda90508e8e162b116470:
+    resolution: {tarball: https://codeload.github.com/bablr-lang/agast-helpers/tar.gz/298f42760021ba2b021cda90508e8e162b116470}
     name: '@bablr/agast-helpers'
     version: 0.0.0
     dependencies:
