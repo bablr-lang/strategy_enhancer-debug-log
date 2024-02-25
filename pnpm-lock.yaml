@@ -6,11 +6,11 @@ settings:
 
 dependencies:
   '@bablr/agast-helpers':
-    specifier: github:bablr-lang/agast-helpers#bcde8202460027c099860756c520e9ec8a59d63b
-    version: github.com/bablr-lang/agast-helpers/bcde8202460027c099860756c520e9ec8a59d63b
+    specifier: github:bablr-lang/agast-helpers#6f23ef7ace4c6504762ef19ffbf3eff00790ff7d
+    version: github.com/bablr-lang/agast-helpers/6f23ef7ace4c6504762ef19ffbf3eff00790ff7d
   '@bablr/helpers':
     specifier: github:bablr-lang/helpers#cc1d37fa91f470dcf3bf1b4f6b05a8350dc52155
-    version: git@github.com+bablr-lang/helpers/cc1d37fa91f470dcf3bf1b4f6b05a8350dc52155
+    version: git/github.com+bablr-lang/helpers/cc1d37fa91f470dcf3bf1b4f6b05a8350dc52155
 
 devDependencies:
   '@bablr/eslint-config-base':
@@ -1903,7 +1903,7 @@ packages:
     resolution: {integrity: sha512-3wdGidZyq5PB084XLES5TpOSRA3wjXAlIWMhum2kRcv/41Sn2emQ0dycQW4uZXLejwKvg6EsvbdlVL+FYEct7A==}
     dev: true
 
-  git@github.com+bablr-lang/helpers/cc1d37fa91f470dcf3bf1b4f6b05a8350dc52155:
+  git/github.com+bablr-lang/helpers/cc1d37fa91f470dcf3bf1b4f6b05a8350dc52155:
     resolution: {commit: cc1d37fa91f470dcf3bf1b4f6b05a8350dc52155, repo: git@github.com:bablr-lang/helpers.git, type: git}
     name: '@bablr/helpers'
     version: 0.0.0
@@ -1912,16 +1912,16 @@ packages:
       iter-tools-es: 7.5.3
     dev: false
 
-  github.com/bablr-lang/agast-helpers/8b57f2971fc91f6dd4e23ec626a77c931c877786:
-    resolution: {tarball: https://codeload.github.com/bablr-lang/agast-helpers/tar.gz/8b57f2971fc91f6dd4e23ec626a77c931c877786}
+  github.com/bablr-lang/agast-helpers/6f23ef7ace4c6504762ef19ffbf3eff00790ff7d:
+    resolution: {tarball: https://codeload.github.com/bablr-lang/agast-helpers/tar.gz/6f23ef7ace4c6504762ef19ffbf3eff00790ff7d}
     name: '@bablr/agast-helpers'
     version: 0.0.0
     dependencies:
       '@iter-tools/imm-stack': 1.1.0
     dev: false
 
-  github.com/bablr-lang/agast-helpers/bcde8202460027c099860756c520e9ec8a59d63b:
-    resolution: {tarball: https://codeload.github.com/bablr-lang/agast-helpers/tar.gz/bcde8202460027c099860756c520e9ec8a59d63b}
+  github.com/bablr-lang/agast-helpers/8b57f2971fc91f6dd4e23ec626a77c931c877786:
+    resolution: {tarball: https://codeload.github.com/bablr-lang/agast-helpers/tar.gz/8b57f2971fc91f6dd4e23ec626a77c931c877786}
     name: '@bablr/agast-helpers'
     version: 0.0.0
     dependencies:
