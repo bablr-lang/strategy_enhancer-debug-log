@@ -12,8 +12,7 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@bablr/helpers": "github:bablr-lang/helpers#cc1d37fa91f470dcf3bf1b4f6b05a8350dc52155",
-    "@bablr/agast-helpers": "github:bablr-lang/agast-helpers#298f42760021ba2b021cda90508e8e162b116470"
+    "@bablr/agast-helpers": "github:bablr-lang/agast-helpers#90448dbbce32f902affe36efc2cc3bb17fd9e032"
   },
   "devDependencies": {
     "@bablr/eslint-config-base": "github:bablr-lang/eslint-config-base#c040bc95f2dddac160628e4757a412016044b3ef",
