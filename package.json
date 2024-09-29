@@ -1,7 +1,7 @@
 {
   "name": "@bablr/strategy_enhancer-debug-log",
   "description": "An agAST VM strategy enhancer that logs instruction execution",
-  "version": "0.0.0",
+  "version": "0.5.0",
   "author": "Conrad Buck<conartist6@gmail.com>",
   "type": "module",
   "files": [
