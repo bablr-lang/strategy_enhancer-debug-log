@@ -13,7 +13,6 @@
   "sideEffects": false,
   "dependencies": {
     "@bablr/agast-helpers": "0.6.1",
-    "@bablr/agast-vm-helpers": "0.6.0",
     "@bablr/coroutine": "0.1.0"
   },
   "devDependencies": {
