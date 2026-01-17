@@ -12,8 +12,8 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@bablr/agast-helpers": "0.9.0",
-    "@bablr/agast-vm-helpers": "0.9.0",
+    "@bablr/agast-helpers": "0.10.0",
+    "@bablr/agast-vm-helpers": "0.10.0",
     "@bablr/coroutine": "0.1.0"
   },
   "devDependencies": {
@@ -24,7 +24,10 @@
     "eslint-plugin-import": "^2.27.5",
     "prettier": "^2.6.2"
   },
-  "repository": "github:bablr-lang/strategy_enhancer-debug-log",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bablr-lang/strategy_enhancer-debug-log.git"
+  },
   "homepage": "https://github.com/bablr-lang/strategy_enhancer-debug-log",
   "license": "MIT"
 }
